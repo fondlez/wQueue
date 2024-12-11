@@ -1,4 +1,4 @@
-# GroupBulletinBoard
+# wQueue
 
 ### [Download Latest](https://github.com/fondlez/wQueue/releases/latest)
 
